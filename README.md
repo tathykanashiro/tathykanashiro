@@ -1,7 +1,7 @@
 ### <p align="center">Olázinho! 👋 Sou a Tathynha Kanashiro! </p>
 ##
 
-- 🔭 Quero trabalhar com front-end
+- 🔭 Quero trabalhar com desenvolvimento
 - 🌱 Estou estudando Bootstrap
 - ⚡ Fato interessante: Sou gamer!
 
