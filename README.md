@@ -2,7 +2,7 @@
 ##
 
 - 🔭 Quero trabalhar com desenvolvimento
-- 🌱 Estou estudando Bootstrap
+- 🌱 Estou estudando Java e JavaScript
 - ⚡ Fato interessante: Sou gamer!
 
 ##
