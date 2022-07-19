@@ -7,12 +7,7 @@
 
 ##
 
-<div align="center">
-  <a href="https://github.com/tathykanashiro">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tathykanashiro&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tathykanashiro&layout=compact&langs_count=7&theme=aura_dark"/>
-</div>
-  
+ 
   ##
   
   <div style="display: inline_block"><br>
