@@ -1,11 +1,11 @@
-### <p align="center">Olázinho! 👋 Sou a Tathynha Kanashiro! </p>
+## <p align="center">Olázinho! 👋 Sou a Tathynha Kanashiro! </p>
 
-
+###  🎖️ Toda conquista começa com a decisão de tentar.
 
 #
-- 🔭 Quero trabalhar com desenvolvimento
-- 🌱 Estou estudando Java e JavaScript
-- ⚡ Fato interessante: Sou gamer!
+- 💾 Quero trabalhar com desenvolvimento
+- 👩‍💻 Estou estudando Java e JavaScript
+- 🎮 Fato interessante: Sou gamer!
 
 <br><br>
 
